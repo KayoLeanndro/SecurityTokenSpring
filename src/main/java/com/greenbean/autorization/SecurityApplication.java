@@ -1,4 +1,4 @@
-package com.greenbean.security;
+package com.greenbean.autorization;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
